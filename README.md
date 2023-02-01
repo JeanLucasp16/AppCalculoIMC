@@ -28,7 +28,8 @@ Eu participei do desafio 10D na comunidade DevSpace e consegui sair do ZERO.
 - Melhorar estilização do app
 
 ## Author
-Roque Buarque Junior (follow me on [Twitter](https://twitter.com/roquebuarque))
+Jean Lucas Martins
+<a> https://www.linkedin.com/in/jean-lucas-martins-pimenta/ <a>
 
 ## License
 ```
